@@ -1,3 +1,9 @@
+Si deseas ver la app en linea visita
+https://aguilar.digital/app-memes 
+
+tambien puedes clonar el repositorio y probarla localmente
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
