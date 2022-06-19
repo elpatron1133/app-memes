@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import { useState } from 'react';
 import './App.css';
 import html2canvas from 'html2canvas';
@@ -67,7 +66,7 @@ const onChangeLinea1 = function(evento){
         <span class="up">{linea1}</span><br/>
         
         
-        <img alt="" class="imgMeme"src={"/img/" + imagen + ".jpg"}/><br/>
+        <img alt="" class="imgMeme"src={"https://aguilar.digital/app-memes/img/" + imagen + ".jpg"}/><br/>
 
         
         <span class="down">{linea2}</span>
